@@ -1,5 +1,7 @@
 package loops;
 
+//5.Generate the first N rows of Pascal’s Triangle.
+
 import java.util.Scanner;
 
 public class Pascal {
@@ -16,12 +18,8 @@ public class Pascal {
         	 value = value * (i - j) / (j + 1);
         	 }
         	 System.out.println();
-        	 scr.close();
-         
-	            
+        	 scr.close();    
          }
-
-
 	}
 
 }

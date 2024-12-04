@@ -1,5 +1,7 @@
 package loops;
 
+//2.Check the No Perfect or  Not
+
 import java.util.Scanner;
 
 public class PerfectNumber {
